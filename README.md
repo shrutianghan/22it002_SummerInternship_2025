@@ -1,4 +1,4 @@
-# 🛒 E-commerce Sales Analysis  
+# 🛒 Sales Analysis  
 
 ## 📌 Project Overview  
 This project performs an **in-depth analysis of e-commerce sales data** using Python.  
